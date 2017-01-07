@@ -56,3 +56,5 @@ $(document).on('turbolinks:load', function(){
     theForm.get(0).submit();
   }
 });
+
+
